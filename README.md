@@ -8,8 +8,10 @@
 
 <br>
 
-<!-- Floating GIF to lower-right -->
-<img align="right" src="https://compote.slate.com/images/5123743f-a73d-4a62-84ab-b17ab3fe0845.gif" width="240" style="margin-top: 60px;" />
+<!-- GIF aligned between center and right -->
+<p>
+  <img src="https://compote.slate.com/images/5123743f-a73d-4a62-84ab-b17ab3fe0845.gif" width="250" style="float: right; margin-left: 30px; margin-top: 50px;" />
+</p>
 
 - #### 🔧 Currently Working On → 🧠  
   - Text Summarizer using AI 📝  
