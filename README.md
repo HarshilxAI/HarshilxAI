@@ -1,12 +1,27 @@
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+<p align="center">
+  <img src="https://c.tenor.com/y1MJ6t60TNgAAAAM/robot-hello.gif" width="120" />
+</p>
 
-# Hi 👋, I'm Harshil Gurjar
-### 👨‍💻 AI Explorer | B.Tech CSE | Learner & Builder
+# Hi, I'm Harshil Gurjar
+### 🧠 A curious mind learning everything about AI from India 🇮🇳
 
-I'm passionate about Artificial Intelligence and building smart, real-world solutions using code and creativity.  
-Currently exploring Machine Learning, Generative AI, and deploying AI models on the web 🚀
+I'm a B.Tech CSE student diving deep into the world of Artificial Intelligence.  
+Every day, I explore new AI tools, build small projects, and keep upgrading myself — step by step.
 
 ---
 
-📫 **Reach me:** hdgurjar2323@gmail.com  
-💡 **Fun Fact:** Googling & Guessing 😂   
+### 🚀 What I’m Currently Doing:
+- 🔍 Exploring AI & ML concepts from scratch
+- 💡 Learning Python and model deployment
+- 🌐 Planning to build AI-powered web apps
+- 📚 Growing with projects, not just tutorials
+
+---
+
+### 📬 Reach Me At:
+📧 harshil.gurjar23@gmail.com
+
+---
+
+### ⚡ Fun Mode:
+**Coding & Sleeping** — until I take over the AI world 😄🤖
