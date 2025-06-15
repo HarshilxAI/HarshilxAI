@@ -7,28 +7,31 @@
 
 ---
 
+<table>
+<tr>
+<td>
+
 ### 🤖 Currently Working On
 - Text Summarizer using AI 📝  
 - Chatbot using NLP 💬  
 - Sentiment Analysis Tool 📊  
 - AI-Powered Resume Screener 📄  
 
-### 📘 Currently Learning
+### 📘 Currently Learning  
 I'm currently learning AI, Machine Learning, Deep Learning, and NLP.
 
-### 🤝 Open to Collaborate
+### 🤝 Open to Collaborate  
 Looking to connect with AI-focused people to build impactful projects together.
 
-### 📩 Reach Me
+### 📩 Reach Me  
 Email: **hdgurjar2323@gmail.com**
 
----
-
-### 🤖🤝
-
-<p align="center">
+</td>
+<td>
   <img src="https://compote.slate.com/images/5123743f-a73d-4a62-84ab-b17ab3fe0845.gif" width="300" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
