@@ -6,38 +6,50 @@
         <img src="https://www.adoreinfotech.com/assets/img/chatbot-marketing.gif" width="140" />
       </p>
 
-      <h1 align="center"><strong>I'M HARSHIL GURJAR</strong></h1>
+      <p align="center">
+        <strong style="font-size: 28px;">I'M HARSHIL GURJAR</strong>
+      </p>
 
-      <h3 align="center">A student from India exploring the world of AI 🤖</h3>
+      <p align="center">
+        <span style="font-size: 18px;">A student from India exploring the world of AI 🤖</span>
+      </p>
 
       <br>
 
-      - #### 🔧 Currently Working On → 🧠  
-        - Text Summarizer using AI 📝  
-        - Chatbot using NLP 💬  
-        - Sentiment Analysis Tool 📊  
-        - AI-Powered Resume Screener 📄  
-
-      - #### 📚 Currently Learning → 📘  
-        I'm currently learning AI, Machine Learning, Deep Learning, and NLP basics.
-
-      - #### 🤝 Open to Collaboration → 🌐  
-        I’m always open to connecting with fellow AI enthusiasts for future projects and knowledge exchange.
-
-      - #### 📬 Reach Out → 📩  
-        You can directly contact me at: **hdgurjar2323@gmail.com**
+      <ul>
+        <li><strong>🔧 Currently Working On → 🧠</strong>
+          <ul>
+            <li>- Text Summarizer using AI 📝</li>
+            <li>- Chatbot using NLP 💬</li>
+            <li>- Sentiment Analysis Tool 📊</li>
+            <li>- AI-Powered Resume Screener 📄</li>
+          </ul>
+        </li>
+        <br>
+        <li><strong>📚 Currently Learning → 📘</strong><br>
+          I'm currently learning AI, Machine Learning, Deep Learning, and NLP basics.
+        </li>
+        <br>
+        <li><strong>🤝 Open to Collaboration → 🌐</strong><br>
+          Looking to connect with AI-focused developers to collaborate on future tech projects.
+        </li>
+        <br>
+        <li><strong>📬 Reach Out → 📩</strong><br>
+          You can directly contact me at: <strong>hdgurjar2323@gmail.com</strong>
+        </li>
+      </ul>
 
     </td>
     
     <td>
-      <img src="https://compote.slate.com/images/5123743f-a73d-4a62-84ab-b17ab3fe0845.gif" width="350" style="margin-left: 40px;" />
+      <img src="https://compote.slate.com/images/5123743f-a73d-4a62-84ab-b17ab3fe0845.gif" width="350" style="margin-left: 40px; margin-top: 60px;" />
     </td>
   </tr>
 </table>
 
----
+<br>
 
-### 🛠️ Tools I Use
+<p><strong>🛠️ Tools I Use</strong></p>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
@@ -49,9 +61,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" />
 </p>
 
----
+<br>
 
-### 📈 GitHub Stats & Activity
+<p><strong>📈 GitHub Stats & Activity</strong></p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HarshilxAI&show_icons=true&theme=radical" height="160" />
