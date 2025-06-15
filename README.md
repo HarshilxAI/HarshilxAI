@@ -1,31 +1,31 @@
-<p align="center">
-  <img src="https://www.adoreinfotech.com/assets/img/chatbot-marketing.gif" width="120" />
-</p>
+<table>
+  <tr>
+    <td>
 
 <h1 align="center">I'M HARSHIL GURJAR</h1>
 
 <p align="center">A student from India exploring the world of AI 🤖</p>
 
+<h3>🔧 Currently Working On</h3>
+<ul>
+  <li>- Text Summarizer using AI 📝</li>
+  <li>- Chatbot using NLP 💬</li>
+  <li>- Sentiment Analysis Tool 📊</li>
+  <li>- AI-Powered Resume Screener 📄</li>
+</ul>
+
+<h3>📘 Currently Learning</h3>
+<p>I'm currently learning AI, Machine Learning, Deep Learning, and NLP.</p>
+
+<h3>🤝 Open to Collaborate</h3>
+<p>Looking forward to teaming up with AI-driven minds to build amazing future projects.</p>
+
+<h3>📩 Reach Me</h3>
+<p>You can connect with me directly at: <strong>hdgurjar2323@gmail.com</strong></p>
+
 ---
 
-### 🔧 Currently Working On
-- Text Summarizer using AI 📝  
-- Chatbot using NLP 💬  
-- Sentiment Analysis Tool 📊  
-- AI-Powered Resume Screener 📄  
-
-### 📘 Currently Learning
-I'm currently learning AI, Machine Learning, Deep Learning, and NLP.
-
-### 🤝 Open to Collaborate
-I'm open to connecting with AI-driven minds to collaborate on exciting future projects 🤝
-
-### 📩 Reach Me
-You can connect with me directly at: **hdgurjar2323@gmail.com**
-
----
-
-### 🧰 Tools and Languages
+<h3>🧰 Tools and Languages</h3>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35" />
@@ -40,7 +40,7 @@ You can connect with me directly at: **hdgurjar2323@gmail.com**
 
 ---
 
-### 🔗 Connect With Me
+<h3>🔗 Connect With Me</h3>
 
 <p align="left">
   <a href="https://twitter.com/your_username" target="_blank">
@@ -53,3 +53,10 @@ You can connect with me directly at: **hdgurjar2323@gmail.com**
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" />
   </a>
 </p>
+
+    </td>
+    <td>
+      <img src="https://compote.slate.com/images/5123743f-a73d-4a62-84ab-b17ab3fe0845.gif" width="300px" />
+    </td>
+  </tr>
+</table>
