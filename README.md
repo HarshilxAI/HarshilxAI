@@ -13,3 +13,9 @@
   - Chatbot using NLP 💬
   - Sentiment Analysis Tool 📊
   - AI-Powered Resume Screener 📄
+
+- ### Currently Learning 🔍
+  - Artificial Intelligence
+  - Machine Learning
+  - Deep Learning
+  - NLP Basics
