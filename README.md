@@ -8,8 +8,9 @@
 
 <br>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
+<p align="left">
+  <img align="right" src="https://compote.slate.com/images/5123743f-a73d-4a62-84ab-b17ab3fe0845.gif" width="270" />
+</p>
 
 - #### 🔧 Currently Working On → 🧠  
   - Text Summarizer using AI 📝  
@@ -25,10 +26,6 @@
 
 - #### 📬 Reach Out → 📩  
   You can directly contact me at: **hdgurjar2323@gmail.com**
-
-  </div>
-  <img src="https://compote.slate.com/images/5123743f-a73d-4a62-84ab-b17ab3fe0845.gif" width="270" alt="AI handshake gif"/>
-</div>
 
 ---
 
