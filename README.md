@@ -62,3 +62,10 @@ Email: **hdgurjar2323@gmail.com**
     <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="25" />
   </a>
 </p>
+
+---
+
+### 📊 Harshil's GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshilxAI&show_icons=true&theme=radical" width="450" />
+</p>
