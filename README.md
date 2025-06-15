@@ -1,47 +1,64 @@
 <p align="center">
-  <img src="https://www.adoreinfotech.com/assets/img/chatbot-marketing.gif" width="150"/>
+  <img src="https://www.adoreinfotech.com/assets/img/chatbot-marketing.gif" width="150" />
 </p>
 
-<h1 align="center">I'm Harshil Gurjar</h1>
-<h3 align="center">A student from India exploring the world of AI</h3>
+<h1 align="center">I'M HARSHIL GURJAR</h1>
+<p align="center">A student from India exploring the world of AI 🌏🤖</p>
 
 ---
 
-### 🔧 Currently Working On
-- Text Summarizer 📄  
-- Chatbot 🤖  
-- Image Classification 🖼️  
-- Recommendation System 🎯  
+<table>
+<tr>
+<td>
 
-### 📘 Currently Learning
-I'm currently learning AI, Deep Learning, and Machine Learning.
+### 🤖 Currently Working On
+- Text Summarizer using AI 📝  
+- Chatbot using NLP 💬  
+- Sentiment Analysis Tool 📊  
+- AI-Powered Resume Screener 📄  
 
-### 🤝 Looking to Collaborate
-I’m open to collaborating with AI-focused developers and teams on innovative projects.
+### 📘 Currently Learning  
+I'm currently learning AI, Machine Learning, Deep Learning, and NLP.
 
-### 📩 Reach Me At
-Gmail: hdgurjar2323@gmail.com
+### 🤝 Open to Collaborate  
+Looking to connect with AI-focused people to build impactful projects together.
 
-![robot and human gif](https://compote.slate.com/images/5123743f-a73d-4a62-84ab-b17ab3fe0845.gif)
+### 📩 Reach Me  
+Email: **hdgurjar2323@gmail.com**
 
----
-
-### 🧰 Tools & Languages
-
-**Languages & Skills:**
-- C 💻
-- C++ 🧠
-- Python 🐍
-- Java ☕
-- DSA with Java 📊
-- OOP with Python 🧩
-- MySQL 🗃️
-- AI Skills 🧠🤖
+</td>
+<td>
+  <img src="https://compote.slate.com/images/5123743f-a73d-4a62-84ab-b17ab3fe0845.gif" width="300" />
+</td>
+</tr>
+</table>
 
 ---
 
-### 🌐 Connect With Me
+### 🛠️ Tools and Languages  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="30" />
+</p>
 
-- ✉️ Gmail: [hdgurjar2323@gmail.com](mailto:hdgurjar2323@gmail.com)
-- 🔗 LinkedIn: [Harshil Gurjar](https://www.linkedin.com/in/harshil-gurjar23/)
-- 🐦 Twitter (X): [Twitter](https://twitter.com)
+---
+
+### 🌐 Connect With Me  
+<p align="left">
+  <a href="mailto:hdgurjar2323@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="25" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="25" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="25" />
+  </a>
+</p>
