@@ -8,8 +8,8 @@
 
 <br>
 
-- ### Currently Working On
-  - Text Summarizer using AI
-  - Chatbot using NLP
-  - Sentiment Analysis Tool
-  - AI-Powered Resume Screener
+- ### Currently Working On 🛠️
+  - Text Summarizer using AI 📝
+  - Chatbot using NLP 💬
+  - Sentiment Analysis Tool 📊
+  - AI-Powered Resume Screener 📄
