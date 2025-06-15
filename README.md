@@ -6,11 +6,11 @@
 
 <p align="center">A student from India exploring the world of AI 🤖</p>
 
-<p align="right">
-  <img src="https://compote.slate.com/images/5123743f-a73d-4a62-84ab-b17ab3fe0845.gif" width="350" />
-</p>
-
 ---
+
+<table>
+<tr>
+<td>
 
 🔧 **Currently Working On** 🧠  
 - Text Summarizer using AI 📝  
@@ -26,6 +26,13 @@ Looking to connect with AI-focused developers to collaborate on future projects.
 
 📬 **Reach Out** 📩  
 You can directly contact me at: **hdgurjar2323@gmail.com**
+
+</td>
+<td>
+  <img src="https://compote.slate.com/images/5123743f-a73d-4a62-84ab-b17ab3fe0845.gif" width="300"/>
+</td>
+</tr>
+</table>
 
 ---
 
