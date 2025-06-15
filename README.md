@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/y1MJ6t60TNgAAAAM/robot-hello.gif" width="120" alt="Hello Robot Gif" />
+  <img src="https://www.adoreinfotech.com/assets/img/chatbot-marketing.gif" width="150" alt="Robot Hello GIF" />
 </p>
 
 <h1 align="center">I'M HARSHIL GURJAR</h1>
@@ -7,51 +7,51 @@
 
 <hr />
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
+### 🔧 Currently Working On
 
-<h3>🔧 Currently Working On</h3>
-<ul>
-  <li>Text Summarizer using AI 📝</li>
-  <li>Chatbot using NLP 💬</li>
-  <li>Sentiment Analysis Tool 📊</li>
-  <li>AI-Powered Resume Screener 📄</li>
-</ul>
+- Text Summarizer using AI 📝  
+- Chatbot using NLP 💬  
+- Sentiment Analysis Tool 📊  
+- AI-Powered Resume Screener 📄  
 
-<h3>📘 Currently Learning</h3>
-<p>I'm currently learning AI, Machine Learning, Deep Learning, and NLP.</p>
+### 📘 Currently Learning
 
-<h3>🤝 Open to Collaborate</h3>
-<p>Looking forward to collaborating with AI-focused individuals on future projects.</p>
+I'm currently learning AI, Machine Learning, Deep Learning, and NLP.
 
-<h3>📩 Reach Me</h3>
-<p>Connect with me: <strong>hdgurjar2323@gmail.com</strong></p>
+### 🤝 Open to Collaborate
 
-<hr />
+Always open to collaborating with AI-focused individuals on exciting real-world projects.
 
-<h3>🧰 Tools and Languages</h3>
+### 📩 Reach Me
+
+You can connect with me directly at: **hdgurjar2323@gmail.com**
+
+---
+
+### 🧰 Tools and Languages
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="35" title="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="35" title="PyTorch" />
 </p>
 
-<h3>🌐 Connect with Me</h3>
+### 🌐 Connect with Me
+
 <p>
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733635.png" width="25" /> Gmail |
-  <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="25" /> LinkedIn |
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="25" /> Twitter
+  <a href="mailto:hdgurjar2323@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="28" title="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="28" title="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="28" title="Twitter/X" />
+  </a>
 </p>
-
-</td>
-<td width="40%" valign="top" align="center" style="padding-left: 20px; border-left: 1px solid #ccc;">
-  <img src="https://compote.slate.com/images/5123743f-a73d-4a62-84ab-b17ab3fe0845.gif" width="300" alt="AI handshake gif"/>
-</td>
-  </tr>
-</table>
