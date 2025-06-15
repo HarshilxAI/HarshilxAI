@@ -7,26 +7,41 @@
 
 <hr />
 
-### 🔧 Currently Working On
+<table>
+  <tr>
+    <!-- Left side content -->
+    <td valign="top" width="70%">
+      
+      <h3>🔧 Currently Working On</h3>
+      <ul>
+        <li>Text Summarizer using AI 📝</li>
+        <li>Chatbot using NLP 💬</li>
+        <li>Sentiment Analysis Tool 📊</li>
+        <li>AI-Powered Resume Screener 📄</li>
+      </ul>
 
-- Text Summarizer using AI 📝  
-- Chatbot using NLP 💬  
-- Sentiment Analysis Tool 📊  
-- AI-Powered Resume Screener 📄  
+      <h3>📘 Currently Learning</h3>
+      <p>I'm currently learning AI, Machine Learning, Deep Learning, and NLP.</p>
 
-### 📘 Currently Learning
+      <h3>🤝 Open to Collaborate</h3>
+      <p>Always open to collaborating with AI-focused individuals on exciting real-world projects.</p>
 
-I'm currently learning AI, Machine Learning, Deep Learning, and NLP.
+      <h3>📩 Reach Me</h3>
+      <p>Email: <strong>hdgurjar2323@gmail.com</strong></p>
 
-### 🤝 Open to Collaborate
+    </td>
 
-Always open to collaborating with AI-focused individuals on exciting real-world projects.
+    <!-- Vertical line -->
+    <td width="5%" valign="top" style="border-left: 2px solid #000;"></td>
 
-### 📩 Reach Me
+    <!-- Right side GIF -->
+    <td valign="top" width="25%">
+      <img src="https://compote.slate.com/images/5123743f-a73d-4a62-84ab-b17ab3fe0845.gif" width="100%" alt="Robot Handshake GIF" />
+    </td>
+  </tr>
+</table>
 
-You can connect with me directly at: **hdgurjar2323@gmail.com**
-
----
+<hr />
 
 ### 🧰 Tools and Languages
 
