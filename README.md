@@ -8,13 +8,17 @@
 
 <br>
 
-- ### Currently Working On 🛠️
+- #### 🔧 Currently Working On  
   - Text Summarizer using AI 📝  
   - Chatbot using NLP 💬  
   - Sentiment Analysis Tool 📊  
   - AI-Powered Resume Screener 📄
 
-<br>
+- #### 📚 Currently Learning  
+  I'm currently learning AI, Machine Learning, Deep Learning, and NLP basics.
 
-- 🧠 I'm currently learning AI, Machine Learning, Deep Learning, and NLP basics.  
-- 🤝 Always excited to connect with fellow AI enthusiasts for future collaborations and projects!
+- #### 🤝 Open to Collaboration  
+  I’m always open to connecting with fellow AI enthusiasts for future projects and knowledge exchange.
+
+- #### 📬 Reach Out  
+  You can directly contact me at: **hdgurjar2323@gmail.com**
