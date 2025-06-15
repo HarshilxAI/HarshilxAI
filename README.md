@@ -1,12 +1,11 @@
 <p align="center">
-  <img src="https://c.tenor.com/y1MJ6t60TNgAAAAM/robot-hello.gif" width="120" />
+  <img src="https://www.adoreinfotech.com/assets/img/chatbot-marketing.gif" width="140" />
 </p>
 
-<h2 align="center">I'm Harshil Gurjar</h2>
+<h1 align="center"><strong>I'M HARSHIL GURJAR</strong></h1>
 
 <p align="center">
-  A passionate learner from India 🇮🇳 exploring the world of Artificial Intelligence.<br>
-  Currently on a journey to understand how machines learn, think, and create.
+  A student from India exploring the world of <strong>Artificial Intelligence</strong> — building smart solutions with code and curiosity 🤖
 </p>
 
 <p align="center">
@@ -14,5 +13,5 @@
 </p>
 
 <p align="center">
-  💡 <em>Learning, Building, and Growing — one line of code at a time.</em>
+  <em>Learning AI, step by step — one model, one project at a time.</em>
 </p>
