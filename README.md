@@ -8,14 +8,15 @@
 
 <br>
 
+<div align="left" style="margin-left: 10%; width: 80%;">
+
 - ### Currently Working On 🛠️
   - Text Summarizer using AI 📝
   - Chatbot using NLP 💬
   - Sentiment Analysis Tool 📊
   - AI-Powered Resume Screener 📄
 
-- ### Currently Learning 🔍
-  - Artificial Intelligence
-  - Machine Learning
-  - Deep Learning
-  - NLP Basics
+- ### Currently Learning 🔍  
+  I'm currently learning the fundamentals of Artificial Intelligence, Machine Learning, Deep Learning, and NLP.
+
+</div>
