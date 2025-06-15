@@ -6,18 +6,10 @@
 
 <h3 align="center">A student from India exploring the world of AI 🤖</h3>
 
----
+<br>
 
-<h3 align="center">🔧 Currently Working On</h3>
-
-<p align="center">
-  Internship Project: <strong>AI Text Summarization Web App</strong>
-</p>
-
-<ul>
-  <li>Building a tool to summarize long texts into short, meaningful summaries</li>
-  <li>Training and testing models for NLP-based text summarization</li>
-  <li>Developing a simple user interface for interaction</li>
-  <li>Deploying the model using web technologies</li>
-  <li>Learning basics of model integration & deployment</li>
-</ul>
+- ### Currently Working On
+  - Text Summarizer using AI
+  - Chatbot using NLP
+  - Sentiment Analysis Tool
+  - AI-Powered Resume Screener
