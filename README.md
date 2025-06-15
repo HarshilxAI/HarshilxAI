@@ -1,40 +1,48 @@
+<h1 align="center">I'M HARSHIL GURJAR</h1>
+<p align="center">A student from India exploring AI 🤖</p>
+
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td width="60%" valign="top">
 
-<h1 align="center">I'M HARSHIL GURJAR</h1>
+<h3>🔧 Currently Working On</h3>
+<ul>
+  <li>Text Summarizer using AI 📝</li>
+  <li>Chatbot using NLP 💬</li>
+  <li>Sentiment Analysis Tool 📊</li>
+  <li>AI-Powered Resume Screener 📄</li>
+</ul>
 
-<p align="center">A student from India exploring the world of AI 🤖</p>
+<h3>📘 Currently Learning</h3>
+<p>I'm currently learning AI, Machine Learning, Deep Learning, and NLP.</p>
 
-### 🔧 Currently Working On
-- Text Summarizer using AI 📝  
-- Chatbot using NLP 💬  
-- Sentiment Analysis Tool 📊  
-- AI-Powered Resume Screener 📄  
+<h3>🤝 Open to Collaborate</h3>
+<p>Looking forward to collaborating with AI-focused individuals on future projects.</p>
 
-### 📘 Currently Learning
-I'm currently learning AI, Machine Learning, Deep Learning, and NLP.
+<h3>📩 Reach Me</h3>
+<p>Connect with me: <strong>hdgurjar2323@gmail.com</strong></p>
 
-### 🤝 Open to Collaborate
-Excited to work with AI-driven people on impactful future projects.
+<h3>🧰 Tools and Languages</h3>
 
-### 📩 Reach Me
-Connect with me: **hdgurjar2323@gmail.com**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="30" />
+</p>
 
----
-
-### 🧰 Tools and Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="35" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="35" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="35" />
+<h3>🌐 Connect with Me</h3>
+<p>
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733635.png" width="25" /> Gmail |
+  <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="25" /> LinkedIn |
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="25" /> Twitter
+</p>
 
 </td>
-<td valign="top" width="40%" style="text-align:center; border-left:1px solid #ddd; padding-left:20px;">
+<td width="40%" valign="top" align="center" style="padding-left: 20px; border-left: 1px solid #ccc;">
   <img src="https://compote.slate.com/images/5123743f-a73d-4a62-84ab-b17ab3fe0845.gif" width="300" alt="AI handshake gif"/>
 </td>
   </tr>
