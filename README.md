@@ -16,4 +16,5 @@
 
 <br>
 
-🧠 I'm currently learning AI, Machine Learning, Deep Learning, and NLP basics.
+- 🧠 I'm currently learning AI, Machine Learning, Deep Learning, and NLP basics.  
+- 🤝 Always excited to connect with fellow AI enthusiasts for future collaborations and projects!
