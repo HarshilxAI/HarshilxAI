@@ -54,7 +54,7 @@ Email: **hdgurjar2323@gmail.com**
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="25" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/harshil-gurjar23/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="25" />
   </a>
   &nbsp;
