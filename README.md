@@ -1,32 +1,39 @@
-<p align="center">
-  <img src="https://www.adoreinfotech.com/assets/img/chatbot-marketing.gif" width="140" />
-</p>
+<table>
+  <tr>
+    <td>
 
-<h1 align="center"><strong>I'M HARSHIL GURJAR</strong></h1>
+      <p align="center">
+        <img src="https://www.adoreinfotech.com/assets/img/chatbot-marketing.gif" width="140" />
+      </p>
 
-<h3 align="center">A student from India exploring the world of AI 🤖</h3>
+      <h1 align="center"><strong>I'M HARSHIL GURJAR</strong></h1>
 
-<br>
+      <h3 align="center">A student from India exploring the world of AI 🤖</h3>
 
-<!-- Proper GIF Placement: Large, Lower, and Right -->
-<p>
-  <img src="https://compote.slate.com/images/5123743f-a73d-4a62-84ab-b17ab3fe0845.gif" width="320" style="float: right; margin-top: 100px;" />
-</p>
+      <br>
 
-- #### 🔧 Currently Working On → 🧠  
-  - Text Summarizer using AI 📝  
-  - Chatbot using NLP 💬  
-  - Sentiment Analysis Tool 📊  
-  - AI-Powered Resume Screener 📄
+      - #### 🔧 Currently Working On → 🧠  
+        - Text Summarizer using AI 📝  
+        - Chatbot using NLP 💬  
+        - Sentiment Analysis Tool 📊  
+        - AI-Powered Resume Screener 📄  
 
-- #### 📚 Currently Learning → 📘  
-  I'm currently learning AI, Machine Learning, Deep Learning, and NLP basics.
+      - #### 📚 Currently Learning → 📘  
+        I'm currently learning AI, Machine Learning, Deep Learning, and NLP basics.
 
-- #### 🤝 Open to Collaboration → 🌐  
-  I’m always open to connecting with fellow AI enthusiasts for future projects and knowledge exchange.
+      - #### 🤝 Open to Collaboration → 🌐  
+        I’m always open to connecting with fellow AI enthusiasts for future projects and knowledge exchange.
 
-- #### 📬 Reach Out → 📩  
-  You can directly contact me at: **hdgurjar2323@gmail.com**
+      - #### 📬 Reach Out → 📩  
+        You can directly contact me at: **hdgurjar2323@gmail.com**
+
+    </td>
+    
+    <td>
+      <img src="https://compote.slate.com/images/5123743f-a73d-4a62-84ab-b17ab3fe0845.gif" width="350" style="margin-left: 40px;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
