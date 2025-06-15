@@ -1,5 +1,11 @@
+<p align="center">
+  <img src="https://media.tenor.com/y1MJ6t60TNgAAAAM/robot-hello.gif" width="120" alt="Hello Robot Gif" />
+</p>
+
 <h1 align="center">I'M HARSHIL GURJAR</h1>
 <p align="center">A student from India exploring AI 🤖</p>
+
+<hr />
 
 <table>
   <tr>
@@ -21,6 +27,8 @@
 
 <h3>📩 Reach Me</h3>
 <p>Connect with me: <strong>hdgurjar2323@gmail.com</strong></p>
+
+<hr />
 
 <h3>🧰 Tools and Languages</h3>
 
