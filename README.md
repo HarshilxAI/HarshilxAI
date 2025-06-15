@@ -21,4 +21,4 @@
   I’m always open to connecting with fellow AI enthusiasts for future projects and knowledge exchange.
 
 - #### 📬 Reach Out  
-  You can directly contact me at: **hdgurjar2323@gmail.com**
+  Contact me at : **hdgurjar2323@gmail.com**
