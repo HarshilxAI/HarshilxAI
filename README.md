@@ -8,9 +8,9 @@
 
 <br>
 
-<!-- GIF aligned between center and right -->
+<!-- Proper GIF Placement: Large, Lower, and Right -->
 <p>
-  <img src="https://compote.slate.com/images/5123743f-a73d-4a62-84ab-b17ab3fe0845.gif" width="250" style="float: right; margin-left: 30px; margin-top: 50px;" />
+  <img src="https://compote.slate.com/images/5123743f-a73d-4a62-84ab-b17ab3fe0845.gif" width="320" style="float: right; margin-top: 100px;" />
 </p>
 
 - #### 🔧 Currently Working On → 🧠  
