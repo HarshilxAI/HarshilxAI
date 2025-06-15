@@ -6,6 +6,10 @@
 
 <p align="center">A student from India exploring the world of AI 🤖</p>
 
+<p align="right">
+  <img src="https://compote.slate.com/images/5123743f-a73d-4a62-84ab-b17ab3fe0845.gif" width="350" />
+</p>
+
 ---
 
 🔧 **Currently Working On** 🧠  
