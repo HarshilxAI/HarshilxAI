@@ -8,9 +8,8 @@
 
 <br>
 
-<table>
-  <tr>
-    <td>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
 
 - #### 🔧 Currently Working On → 🧠  
   - Text Summarizer using AI 📝  
@@ -27,16 +26,29 @@
 - #### 📬 Reach Out → 📩  
   You can directly contact me at: **hdgurjar2323@gmail.com**
 
-</td>
-    <td>
-      <img src="https://compote.slate.com/images/5123743f-a73d-4a62-84ab-b17ab3fe0845.gif" width="270" alt="AI handshake gif"/>
-    </td>
-  </tr>
-</table>
+  </div>
+  <img src="https://compote.slate.com/images/5123743f-a73d-4a62-84ab-b17ab3fe0845.gif" width="270" alt="AI handshake gif"/>
+</div>
 
 ---
 
 ### 🛠️ Tools I Use
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" />
+</p>
+
+---
+
+### 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshilxAI&show_icons=true&theme=radical" height="160" />
+  <img src="https://streak-stats.demolab.com?user=HarshilxAI&theme=radical" height="160"/>
+</p>
