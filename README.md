@@ -70,10 +70,10 @@ Email: **hdgurjar2323@gmail.com**
 <table>
 <tr>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshilxAI&show_icons=true&theme=blueberry" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshilxAI&show_icons=true&theme=default&bg_color=ADD8E6&text_color=000000&title_color=000000&icon_color=000000" width="400"/>
 </td>
 <td>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HarshilxAI&theme=blueberry" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HarshilxAI&theme=default&background=ADD8E6&ring=000000&fire=000000&currStreakLabel=000000" width="400"/>
 </td>
 </tr>
 </table>
