@@ -45,7 +45,7 @@ Email: **hdgurjar2323@gmail.com**
   <img src="https://skillicons.dev/icons?i=tensorflow" width="45"/>
   <img src="https://skillicons.dev/icons?i=pytorch" width="45"/>
   <img src="https://skillicons.dev/icons?i=vscode" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" width="45" style="background-color:#fff; border-radius:12px; padding:2px;" />
+  <img src="https://www.google.com/imgres?q=google%20colab%20offical%20symbol&imgurl=https%3A%2F%2Fregistry.npmmirror.com%2F%40lobehub%2Ficons-static-png%2Flatest%2Ffiles%2Fdark%2Fcolab.png&imgrefurl=https%3A%2F%2Flobehub.com%2Ficons%2Fcolab&docid=Ts7zzImhQBl1uM&tbnid=uYHPughVAv59kM&vet=12ahUKEwjx0rmSifiNAxXxxDgGHQxALXYQM3oECBoQAA..i&w=1024&h=1024&hcb=2&ved=2ahUKEwjx0rmSifiNAxXxxDgGHQxALXYQM3oECBoQAA" />
 </p>
 
 ---
