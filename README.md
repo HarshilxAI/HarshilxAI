@@ -79,3 +79,7 @@ Email: **hdgurjar2323@gmail.com**
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshilxAI&layout=compact&theme=default&bg_color=ADD8E6&text_color=000000&title_color=000000" width="500" />
+</p>
