@@ -37,15 +37,15 @@ Email: **hdgurjar2323@gmail.com**
 
 ### 🛠️ Tools and Languages  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" style="border-radius:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" style="border-radius:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" style="border-radius:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" style="border-radius:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" style="border-radius:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" style="border-radius:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" style="border-radius:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" style="border-radius:10px;" />
-  <img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" width="40" style="border-radius:10px;" />
+  <img src="https://skillicons.dev/icons?i=c" width="45"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="45"/>
+  <img src="https://skillicons.dev/icons?i=java" width="45"/>
+  <img src="https://skillicons.dev/icons?i=python" width="45"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="45"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="45"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" width="45"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" width="45" style="background-color:#fff; border-radius:12px; padding:2px;" />
 </p>
 
 ---
