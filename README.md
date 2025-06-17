@@ -37,31 +37,31 @@ Email: **hdgurjar2323@gmail.com**
 
 ### 🛠️ Tools and Languages  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" style="border-radius: 12px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" style="border-radius: 12px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" style="border-radius: 12px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" style="border-radius: 12px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" style="border-radius: 12px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" style="border-radius: 12px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" style="border-radius: 12px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" style="border-radius: 12px;"/>
-  <img src="https://github.com/simple-icons/simple-icons/raw/develop/icons/googlecolab.svg" width="40" style="border-radius: 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" style="border-radius: 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" style="border-radius: 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" style="border-radius: 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" style="border-radius: 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" style="border-radius: 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" style="border-radius: 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" style="border-radius: 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" style="border-radius: 12px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Google_Colaboratory_SVG_Logo.svg" width="40" style="border-radius: 12px;" />
 </p>
 
 ---
 
 ### 🔗 Socials & Contact  
 <p align="left">
-  <a href="mailto:hdgurjar2323@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/000000/gmail.png" width="30" style="border-radius: 12px;"/>
-  </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/harshil-gurjar23/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="30" style="border-radius: 12px;"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://twitter.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" width="30" style="border-radius: 12px;"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:hdgurjar2323@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
