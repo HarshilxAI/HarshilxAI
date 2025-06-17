@@ -37,31 +37,31 @@ Email: **hdgurjar2323@gmail.com**
 
 ### 🛠️ Tools and Languages  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c" width="45"/>
-  <img src="https://skillicons.dev/icons?i=cpp" width="45"/>
-  <img src="https://skillicons.dev/icons?i=java" width="45"/>
-  <img src="https://skillicons.dev/icons?i=python" width="45"/>
-  <img src="https://skillicons.dev/icons?i=mysql" width="45"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="45"/>
-  <img src="https://skillicons.dev/icons?i=pytorch" width="45"/>
-  <img src="https://skillicons.dev/icons?i=vscode" width="45"/>
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" style="border-radius: 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" style="border-radius: 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" style="border-radius: 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" style="border-radius: 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" style="border-radius: 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" style="border-radius: 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" style="border-radius: 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" style="border-radius: 12px;"/>
+  <img src="https://github.com/simple-icons/simple-icons/raw/develop/icons/googlecolab.svg" width="40" style="border-radius: 12px;"/>
 </p>
 
 ---
 
-### 🌐 Connect With Me  
+### 🔗 Socials & Contact  
 <p align="left">
   <a href="mailto:hdgurjar2323@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="25" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/gmail.png" width="30" style="border-radius: 12px;"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/harshil-gurjar23/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="25" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="30" style="border-radius: 12px;"/>
   </a>
   &nbsp;
   <a href="https://twitter.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="25" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" width="30" style="border-radius: 12px;"/>
   </a>
 </p>
 
