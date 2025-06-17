@@ -45,7 +45,7 @@ Email: **hdgurjar2323@gmail.com**
   <img src="https://skillicons.dev/icons?i=tensorflow" width="45"/>
   <img src="https://skillicons.dev/icons?i=pytorch" width="45"/>
   <img src="https://skillicons.dev/icons?i=vscode" width="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Google_Colaboratory_SVG_Logo.svg" width="40" style="background-color: #F9AB00; padding: 6px; border-radius: 10px;" title="Google Colab"/>
+  
 </p>
 
 ---
