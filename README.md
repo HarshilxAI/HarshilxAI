@@ -37,15 +37,15 @@ Email: **hdgurjar2323@gmail.com**
 
 ### 🛠️ Tools and Languages  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" style="border-radius: 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" style="border-radius: 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" style="border-radius: 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" style="border-radius: 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" style="border-radius: 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" style="border-radius: 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" style="border-radius: 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" style="border-radius: 12px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Google_Colaboratory_SVG_Logo.svg" width="40" style="border-radius: 12px;" />
+  <img src="https://skillicons.dev/icons?i=c" height="45" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="45" />
+  <img src="https://skillicons.dev/icons?i=java" height="45" />
+  <img src="https://skillicons.dev/icons?i=python" height="45" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="45" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="45" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" height="30" />
 </p>
 
 ---
