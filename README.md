@@ -15,13 +15,13 @@
 - Text Summarizer using AI 📝  
 - Chatbot using NLP 💬  
 - Sentiment Analysis Tool 📊  
-- AI-Powered Resume Screener 📄  
+- AI‑Powered Resume Screener 📄  
 
 ### 📘 Currently Learning  
-I'm currently learning AI, Machine Learning, Deep Learning, and NLP.
+I'm learning AI, Machine Learning, Deep Learning, and NLP.
 
 ### 🤝 Open to Collaborate  
-Looking to connect with AI-focused people to build impactful projects together.
+Open to AI‑centric teamwork on future projects.
 
 ### 📩 Reach Me  
 Email: **hdgurjar2323@gmail.com**
@@ -71,11 +71,11 @@ Email: **hdgurjar2323@gmail.com**
 
 <table>
 <tr>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshilxAI&show_icons=true&theme=default&bg_color=ADD8E6&text_color=000000&title_color=000000&icon_color=000000" width="400"/>
+<td width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshilxAI&show_icons=true&theme=default&bg_color=ADD8E6&text_color=000000&title_color=000000&icon_color=000000" width="100%"/>
 </td>
-<td>
-  <img src="<img src="https://yourimagehost.com/cropped-streak.png" width="200" />
+<td width="50%">
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=HarshilxAI&theme=default&background=ADD8E6&ring=000000&fire=000000&sideLabels=000000&currStreakNum=000000)](https://git.io/streak-stats)
 </td>
 </tr>
 </table>
