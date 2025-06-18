@@ -76,7 +76,7 @@ Email: **hdgurjar2323@gmail.com**
 </td>
 <td>
   <div align="center" style="background-color:#ADD8E6; color:#000000; padding: 25px; border-radius: 10px; width: 420px; font-size: 22px; border: 2px solid #000000;">
-    🔥 <strong>Current Streak = 4 Days</strong>
+    🔥 <strong>Current Streak = 5 Days</strong>
   </div>
 </td>
 </tr>
