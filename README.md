@@ -75,14 +75,7 @@ Email: **hdgurjar2323@gmail.com**
   <img src="https://github-readme-stats.vercel.app/api?username=HarshilxAI&show_icons=true&theme=default&bg_color=ADD8E6&text_color=000000&title_color=000000&icon_color=000000" width="420"/>
 </td>
 <td>
-  <div align="center" style="background-color:#ADD8E6; color:#000000; padding: 25px; border-radius: 10px; width: 420px; font-size: 22px; border: 2px solid #000000;">
-    🔥 <strong>Current Streak = 5 Days</strong>
-  </div>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshilxAI&repo=Currency-Converter&layout=compact&theme=default&bg_color=ADD8E6&text_color=000000&title_color=000000" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshilxAI&theme=default&background=ADD8E6&ring=000000&fire=000000&currStreakLabel=000000" width="420"/>
 </td>
 </tr>
 </table>
