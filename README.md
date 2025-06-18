@@ -72,12 +72,15 @@ Email: **hdgurjar2323@gmail.com**
 <table>
 <tr>
 <td>
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshilxAI&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=HarshilxAI&theme=tokyonight)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshilxAI&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshilxAI&show_icons=true&theme=default&bg_color=ADD8E6&text_color=000000&title_color=000000&icon_color=000000" width="400"/>
+</td>
+<td>
+  <img src="https://github-readme-streak-stats.demolab.com/?user=HarshilxAI&theme=default&background=ADD8E6&ring=000000&fire=000000&currStreakLabel=000000" width="400"/>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshilxAI&layout=compact&theme=default&bg_color=ADD8E6&text_color=000000&title_color=000000" width="600"/>
 </td>
 </tr>
 </table>
