@@ -82,17 +82,22 @@ Email: **hdgurjar2323@gmail.com**
 
 ### 📊 GitHub Stats
 
+
+---
+
+### 📊 GitHub Stats
+
 <table>
 <tr>
 <td>
   <img src="https://github-readme-stats.vercel.app/api?username=HarshilxAI&show_icons=true&theme=default&bg_color=ADD8E6&text_color=000000&title_color=000000&icon_color=000000" width="420"/>
 </td>
 <td>
-  <div align="center" style="background-color:#ADD8E6; color:#000000; padding: 25px; border-radius: 10px; width: 420px; font-size: 22px; border: 2px solid #000000;">
-    🔥 <strong>Current Streak</strong><br>
-    <span style="font-size: 28px; font-weight: bold;">5 Days</span><br>
-    <a href="https://streak-box-denny.netlify.app" target="_blank" style="font-size: 14px; color: #000000; text-decoration: underline; display: inline-block; margin-top: 8px;">
-      View Full Streak →
+  <div align="center" style="background-color:#ADD8E6; color:#000000; padding: 30px; border-radius: 10px; width: 420px; font-size: 28px; font-weight: bold; border: 2px solid #000000;">
+    🔥 CURRENT STREAK<br><br>
+    <span style="font-size: 36px;">5 DAYS</span><br><br>
+    <a href="https://streak-box-denny.netlify.app" target="_blank" style="font-size: 18px; color: #000000; text-decoration: underline;">
+      View Full Details →
     </a>
   </div>
 </td>
