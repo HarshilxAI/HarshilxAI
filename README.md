@@ -87,7 +87,12 @@ Email: **hdgurjar2323@gmail.com**
 </tr>
 <tr>
 <td colspan="2" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshilxAI&layout=compact&theme=default&bg_color=ADD8E6&text_color=000000&title_color=000000" width="400"/>
+  ---
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,json,flask" height="45" />
+</div>
+
 
 </td>
 </tr>
