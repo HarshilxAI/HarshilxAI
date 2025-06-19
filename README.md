@@ -71,6 +71,10 @@ Email: **hdgurjar2323@gmail.com**
 
 ---
 
+
+
+---
+
 ### 📊 GitHub Stats
 
 <table>
@@ -79,8 +83,8 @@ Email: **hdgurjar2323@gmail.com**
   <img src="https://github-readme-stats.vercel.app/api?username=HarshilxAI&show_icons=true&theme=default&bg_color=ADD8E6&text_color=000000&title_color=000000&icon_color=000000" width="420"/>
 </td>
 <td>
-  <a href="https://ghb-streak-box.netlify.app" target="_blank">
-    <img src="https://ghb-streak-box.netlify.app/preview.png" width="420" />
+  <a href="https://streak-box-denny.netlify.app" target="_blank">
+    <img src="https://streak-box-denny.netlify.app/preview.png" width="420" />
   </a>
 </td>
 </tr>
@@ -90,4 +94,5 @@ Email: **hdgurjar2323@gmail.com**
 </td>
 </tr>
 </table>
+
 
