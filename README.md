@@ -87,41 +87,19 @@ Email: **hdgurjar2323@gmail.com**
 </tr>
 <tr>
 <td colspan="2" align="center">
-  ---
+  
 
----
 
-### 🧠 Languages Used Across Projects
 
-<div align="center" style="background-color:#ADD8E6; color:#000000; padding: 20px; border-radius: 10px; border: 2px solid #000000; width: 90%;">
-  <h3>📊 Manual Language Usage Summary</h3>
-  <table style="margin: 0 auto; font-size: 18px; font-weight: bold;">
-    <tr>
-      <td>🐍 Python</td>
-      <td style="padding-left: 15px;">55%</td>
-    </tr>
-    <tr>
-      <td>🌐 HTML</td>
-      <td style="padding-left: 15px;">20%</td>
-    </tr>
-    <tr>
-      <td>🎨 CSS</td>
-      <td style="padding-left: 15px;">8%</td>
-    </tr>
-    <tr>
-      <td>🟨 JavaScript</td>
-      <td style="padding-left: 15px;">7%</td>
-    </tr>
-    <tr>
-      <td>🧾 JSON</td>
-      <td style="padding-left: 15px;">5%</td>
-    </tr>
-    <tr>
-      <td>⚙️ Flask</td>
-      <td style="padding-left: 15px;">5%</td>
-    </tr>
-  </table>
-</div>
+
+
+
+<tr>
+  <td colspan="2" align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshilxAI&repo=Currency-Converter&layout=compact&bg_color=ADD8E6&text_color=000000&title_color=000000&icon_color=000000&border_color=000000" width="420" />
+  </td>
+</tr>
+
 
 
 </td>
