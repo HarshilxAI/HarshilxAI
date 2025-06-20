@@ -76,8 +76,9 @@ Email: **hdgurjar2323@gmail.com**
 </td>
 <td>
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshilxAI&" alt="HarshilxAI" width="420"/>
-  </p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshilxAI&theme=default&background=ADD8E6&ring=000000&currStreakLabel=000000&fire=000000" width="420" />
+</p>
+
 </td>
 </tr>
 <tr>
