@@ -67,7 +67,6 @@ Email: **hdgurjar2323@gmail.com**
 
 ---
 
-
 ### 📊 GitHub Stats
 
 <table>
@@ -76,35 +75,14 @@ Email: **hdgurjar2323@gmail.com**
   <img src="https://github-readme-stats.vercel.app/api?username=HarshilxAI&show_icons=true&theme=default&bg_color=ADD8E6&text_color=000000&title_color=000000&icon_color=000000" width="420"/>
 </td>
 <td>
-  <div align="center" style="background-color:#ADD8E6; color:#000000; padding: 30px; border-radius: 10px; width: 420px; font-size: 28px; font-weight: bold; border: 2px solid #000000;">
-    🔥 CURRENT STREAK<br><br>
-    <span style="font-size: 36px;">5 DAYS</span><br><br>
-    <a href="https://streak-box-denny.netlify.app" target="_blank" style="font-size: 18px; color: #000000; text-decoration: underline;">
-      View Full Details →
-    </a>
-  </div>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshilxAI&" alt="HarshilxAI" width="420"/>
+  </p>
 </td>
 </tr>
-<tr>
-<td colspan="2" align="center">
-  
-
-
-
-
-
-
 <tr>
   <td colspan="2" align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshilxAI&repo=Currency-Converter&layout=compact&bg_color=ADD8E6&text_color=000000&title_color=000000&icon_color=000000&border_color=000000" width="420" />
   </td>
 </tr>
-
-
-
-</td>
-</tr>
 </table>
-
-
-
