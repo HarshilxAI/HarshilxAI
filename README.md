@@ -12,10 +12,11 @@
 <td>
 
 ### 🤖 Currently Working On
-- Text Summarizer using AI 📝  
-- Chatbot using NLP 💬  
+- Cosmic Image Sorter 🚀
 - Sentiment Analysis Tool 📊  
 - AI-Powered Resume Screener 📄  
+
+  
 
 ### 📘 Currently Learning  
 I'm currently learning AI, Machine Learning, Deep Learning, and NLP.
