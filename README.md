@@ -5,8 +5,15 @@
 <h1 align="center">I'M HARSHIL GURJAR</h1>
 <p align="center">A student from India exploring the world of AI 🌏🤖</p>
 
----
 
+
+---
+<p align="center">
+  I'm a B.Tech student who loves learning about AI and building cool projects using Python and simple web tools. I'm not an expert yet, but I enjoy exploring and trying new things every day.  
+  Also... I think my GitHub streak is more consistent than my Snapchat streak 😂
+</p>
+
+---
 <table>
 <tr>
 <td>
