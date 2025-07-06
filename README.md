@@ -42,11 +42,17 @@ Email: **hdgurjar2323@gmail.com**
   <img src="https://skillicons.dev/icons?i=java" height="45" />
   <img src="https://skillicons.dev/icons?i=python" height="45" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" />
+  <img src="https://skillicons.dev/icons?i=html" height="45" />
+  <img src="https://skillicons.dev/icons?i=css" height="45" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="45" />
+  <img src="https://skillicons.dev/icons?i=flask" height="45" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="45" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="45" />
+  <img src="https://skillicons.dev/icons?i=git" height="45" />
   <img src="https://skillicons.dev/icons?i=vscode" height="45" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" height="30" />
 </p>
+
 
 ---
 
