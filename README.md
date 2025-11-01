@@ -19,11 +19,11 @@
 <td>
 
 ### 🤖 Currently Working On
-- Cosmic Image Sorter 🚀
+- Stock Market Prediction Using Machine Learning and 
+  Data Analysis
 - Sentiment Analysis Tool 📊  
-- AI-Powered Resume Screener 📄  
+ 
 
-  
 
 ### 📘 Currently Learning  
 I'm currently learning AI, Machine Learning, Deep Learning, and NLP.
