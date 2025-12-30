@@ -86,7 +86,7 @@ Email: **hdgurjar2323@gmail.com**
 <table>
 <tr>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshilxAI&show_icons=true&theme=default&bg_color=ADD8E6&text_color=000000&title_color=000000&icon_color=000000" width="420"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=HarshilxAI&show_icons=true&theme=default&bg_color=ADD8E6&text_color=000000&title_color=000000&icon_color=000000" width="420" />
 </td>
 <td>
   <p align="center">
@@ -97,7 +97,8 @@ Email: **hdgurjar2323@gmail.com**
 </tr>
 <tr>
   <td colspan="2" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshilxAI&repo=Currency-Converter&layout=compact&bg_color=ADD8E6&text_color=000000&title_color=000000&icon_color=000000&border_color=000000" width="420" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarshilxAI&theme=default" width="420" />
+
   </td>
 </tr>
 </table>
