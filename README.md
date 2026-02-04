@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://www.adoreinfotech.com/assets/img/chatbot-marketing.gif" width="150" />
+  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="150" alt="Robot hello"/>
 </p>
+
 
 <h1 align="center">I'M HARSHIL GURJAR</h1>
 <p align="center">A student from India exploring the world of AI 🌏🤖</p>
