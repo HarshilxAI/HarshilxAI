@@ -416,7 +416,7 @@ Interactive virtual keyboard controlled through an intuitive on-screen interface
 
 <p align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=HarshilxAI&show_icons=true&theme=one_dark_pro&hide_border=true&border_radius=12&rank_icon=github"/>
+<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HarshilxAI&show_icons=true&theme=one_dark_pro&hide_border=true&border_radius=12&rank_icon=github"/>
 
 <img height="165em" src="https://streak-stats.demolab.com?user=HarshilxAI&theme=one-dark-pro&hide_border=true&border_radius=12"/>
 
@@ -424,7 +424,7 @@ Interactive virtual keyboard controlled through an intuitive on-screen interface
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshilxAI&layout=compact&theme=one_dark_pro&hide_border=true&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HarshilxAI&layout=compact&theme=one_dark_pro&hide_border=true&border_radius=12"/>
 
 </p>
 
