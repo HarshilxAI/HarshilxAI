@@ -2,10 +2,6 @@
   <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="150" alt="Robot hello"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HarshilxAI&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 <h1 align="center">I'M HARSHIL GURJAR</h1> 
 <p align="left">AI x Space-Tech Enthusiast </p>
 
@@ -40,6 +36,11 @@ Looking to connect with AI-focused people to build impactful projects together.
 
 🌐 **Explore:** [hdgurjar.netlify.app](https://hdgurjar.netlify.app/)
 
+<p align="left">
+  📈 <strong>Reach:</strong>
+  
+  <img src="https://komarev.com/ghpvc/?username=HarshilxAI&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 </td>
 
 <td>
