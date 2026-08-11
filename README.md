@@ -289,7 +289,7 @@ Continuously Improving Problem Solving
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7"/>
 </a>
 &nbsp;&nbsp
-<a href="https://www.instagram.com/harshil_zx/" target="_blank">
+<a href="https://www.instagram.com/harshil_z3/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
@@ -419,20 +419,30 @@ Interactive virtual keyboard controlled through an intuitive on-screen interface
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<table align="center">
+<tr>
 
-<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HarshilxAI&show_icons=true&theme=one_dark_pro&hide_border=true&border_radius=12&rank_icon=github"/>
+<td align="center">
+<img height="165em"
+src="https://github-stats-extended.vercel.app/api?username=HarshilxAI&show_icons=true&theme=one_dark_pro&hide_border=true&border_radius=12&rank_icon=github"/>
+</td>
 
-<img height="165em" src="https://streak-stats.demolab.com?user=HarshilxAI&theme=one-dark-pro&hide_border=true&border_radius=12"/>
+<td align="center">
+<img height="165em"
+src="https://streak-stats.demolab.com?user=HarshilxAI&theme=one-dark-pro&hide_border=true&border_radius=12"/>
+</td>
 
-</p>
+</tr>
 
-<p align="center">
+<tr>
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HarshilxAI&layout=compact&theme=one_dark_pro&hide_border=true&border_radius=12"/>
+<td colspan="2" align="center">
+<img height="180em"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=HarshilxAI&layout=compact&theme=one_dark_pro&hide_border=true&border_radius=12"/>
+</td>
 
-</p>
-
+</tr>
+</table>
 <p align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HarshilxAI&theme=one-dark&hide_border=true"/>
